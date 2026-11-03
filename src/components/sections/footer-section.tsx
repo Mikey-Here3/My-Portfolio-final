@@ -299,8 +299,7 @@ export default function FooterSection() {
         {/* Copyright */}
         <div className="relative z-10 mt-12 flex flex-col gap-3 border-t border-white/10 pt-5 sm:flex-row sm:items-center sm:justify-between">
           <p className="text-[10px] leading-5 text-white/40">
-            © {new Date().getFullYear()} Ashan Mir. All rights reserved.
-          </p>
+© 2026 Ashan Mir. All rights reserved.          </p>
 
           <p className="text-[10px] leading-5 text-white/40">
             Designed with curiosity. Built with intention.
